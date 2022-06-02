@@ -1,0 +1,80 @@
+Club
+https://www.dndbeyond.com/equipment/club
+Dagger
+https://www.dndbeyond.com/equipment/dagger
+Greatclub
+https://www.dndbeyond.com/equipment/greatclub
+Handaxe
+https://www.dndbeyond.com/equipment/handaxe
+Javelin
+https://www.dndbeyond.com/equipment/javelin
+Light hammer
+https://www.dndbeyond.com/equipment/light-hammer
+Mace
+https://www.dndbeyond.com/equipment/mace
+Quarterstaff
+https://www.dndbeyond.com/equipment/quarterstaff
+Sickle
+https://www.dndbeyond.com/equipment/sickle
+Spear
+https://www.dndbeyond.com/equipment/spear
+Crossbow, light
+https://www.dndbeyond.com/equipment/crossbow-light
+Dart
+https://www.dndbeyond.com/equipment/dart
+Shortbow
+https://www.dndbeyond.com/equipment/shortbow
+Sling
+https://www.dndbeyond.com/equipment/sling
+Battleaxe
+https://www.dndbeyond.com/equipment/battleaxe
+Flail
+https://www.dndbeyond.com/equipment/flail
+Glaive
+https://www.dndbeyond.com/equipment/glaive
+Greataxe
+https://www.dndbeyond.com/equipment/greataxe
+Greatsword
+https://www.dndbeyond.com/equipment/greatsword
+Halberd
+https://www.dndbeyond.com/equipment/halberd
+Lance
+https://www.dndbeyond.com/equipment/lance
+Longsword
+https://www.dndbeyond.com/equipment/longsword
+Maul
+https://www.dndbeyond.com/equipment/maul
+Morningstar
+https://www.dndbeyond.com/equipment/morningstar
+Pike
+https://www.dndbeyond.com/equipment/pike
+Rapier
+https://www.dndbeyond.com/equipment/rapier
+Scimitar
+https://www.dndbeyond.com/equipment/scimitar
+Shortsword
+https://www.dndbeyond.com/equipment/shortsword
+Trident
+https://www.dndbeyond.com/equipment/trident
+War pick
+https://www.dndbeyond.com/equipment/war-pick
+Warhammer
+https://www.dndbeyond.com/equipment/warhammer
+Whip
+https://www.dndbeyond.com/equipment/whip
+Blowgun
+https://www.dndbeyond.com/equipment/blowgun
+Crossbow, hand
+https://www.dndbeyond.com/equipment/crossbow-hand
+Crossbow, heavy
+https://www.dndbeyond.com/equipment/crossbow-heavy
+Longbow
+https://www.dndbeyond.com/equipment/longbow
+Net
+https://www.dndbeyond.com/equipment/net
+Weapon, +1
+https://www.dndbeyond.com/magic-items/weapon-1
+Weapon, +2
+https://www.dndbeyond.com/magic-items/weapon-2
+Weapon, +3
+https://www.dndbeyond.com/magic-items/weapon-3
